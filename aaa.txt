@@ -3,3 +3,4 @@ cycki
 test 1-1
 test 2
 aaa dupa cycki branch-5
+branch-6 test
